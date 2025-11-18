@@ -1,6 +1,6 @@
 # TRACE
-Toward a Training-Free Plug-and-play Refinement Framework for Infrared and Visible Image Registration and Fusion
-<p align="center"> <img src="teaser.pdf" width="90%"> </p>
+**Toward a Training-Free Plug-and-play Refinement Framework for Infrared and Visible Image Registration and Fusion**
+<p align="center"> <img src="teaser.png" width="90%"> </p>
 
 # 🔍 Overview
 This repository contains the official resources for the paper: “Toward a Training-Free Plug-and-play Refinement Framework for Infrared and Visible Image Registration and Fusion”. We propose TRACE, a Training-free Reinforcement-based Alignment method for Cross-modality Enhancement, which incorparates Evaluator, a rewarding network, into an evaluation-driven Reinforcement Learning(RL) framework, enabling efficient and plug-and-play refinement of any existing registration approach.
