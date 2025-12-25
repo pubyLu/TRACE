@@ -7,7 +7,7 @@ This repository contains the official resources for the paper: “Toward a Train
 ## 📝 TODO List
      □ Environment Setup. Provide full conda or pip environment configuration (requirements.txt / environment.yml).
 
-     □ Release Rewarding Model Code
+     □ Release Rewarding Model Code (2025/12/25)
      
      □ Release Trace Code
      
